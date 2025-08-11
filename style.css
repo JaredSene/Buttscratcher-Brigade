@@ -7,7 +7,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: lightgreen;
     color: #333;
     padding: 0 20px;
 }
@@ -30,9 +30,6 @@ header {
     color: white;
     padding: 20px 0;
     text-align: center;
-}
-
-header {
     position: relative;
     height: 80px;
 }
@@ -105,12 +102,6 @@ header {
     padding: 20px;
     color: green;
     text-align: center;
-}
-
-body {
-    margin: 0;
-    font-family: sans-serif;
-    background-color: lightgreen;
 }
 
 .image-grid {
